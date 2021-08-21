@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-catalogo
+
+  cloud:
+    cofig:
+      uri: http://localhost:8888
